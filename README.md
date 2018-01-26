@@ -3,6 +3,11 @@ A tool for creating loan "Stacks" to create leverage
 
 This is essentially a tool for creating your own P2P futures contracts (is there another term for this?).  This works by creating multiple recursive loans. Doing this by hand is tedious, so we should automate it!  The first version will support creation of loans using the EthLend contract, and buying/withdrawing tokens from a single exchange (e.g., IDEX, EtherDelta, Binance).
 
+# Purpose
+
+Create open-source and free financial tools.
+Promote education, inclusivity, and access to crypto tools.
+
 # ELI5:
 
 First familiarize yourself with the EthLend platform (must have Metamask installed) and check out the wiki 
@@ -44,5 +49,4 @@ Loan contract addresses
 
 The process of waiting for lenders, and deposting/withdrawing from exchanges may take a long time (3 hhours?). The script should be able to be started/stopped mid-process....alternative suggestions?
 
-
-
+![Stack Widget](https://github.com/blockchainbuddha/EthLendLeverage/blob/master/StackExplained.png)
