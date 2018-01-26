@@ -12,6 +12,7 @@ Promote education, inclusivity, and access to crypto tools.
 
 First familiarize yourself with the EthLend platform (must have Metamask installed) and check out the wiki 
 https://app.ethlend.io/main/
+
 https://github.com/ETHLend/Documentation/wiki
 
 Lets say you want to buy houses in Cryptotown. 
@@ -49,4 +50,4 @@ Loan contract addresses
 
 The process of waiting for lenders, and deposting/withdrawing from exchanges may take a long time (3 hhours?). The script should be able to be started/stopped mid-process....alternative suggestions?
 
-! [Stack Widget] (https://github.com/blockchainbuddha/EthLendLeverage/blob/master/StackExplained.PNG)
+https://github.com/blockchainbuddha/EthLendLeverage/blob/master/StackExplained.PNG
