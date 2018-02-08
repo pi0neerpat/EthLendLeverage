@@ -50,4 +50,4 @@ Loan contract addresses
 
 The process of waiting for lenders, and deposting/withdrawing from exchanges may take a long time (3 hhours?). The script should be able to be started/stopped mid-process....alternative suggestions?
 
-https://github.com/blockchainbuddha/EthLendLeverage/blob/master/StackExplained.PNG
+![alt text](https://github.com/blockchainbuddha/EthLendLeverage/blob/master/StackExplained.PNG)

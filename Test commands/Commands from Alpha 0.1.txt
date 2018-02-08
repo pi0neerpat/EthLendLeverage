@@ -1,0 +1,10 @@
+This may be helpful when using Metamask to interact with the contract https://github.com/SilentCicero/solidity-to-abi/blob/master/docs/user-guide.md
+    
+
+	/// Must be called by Borrower
+     // tokens as a collateral 
+	 function createNewLendingRequest()payable byAnyone returns(address out){
+          out = newLr(0);
+     }
+	 
+	 
